@@ -1,12 +1,13 @@
 mProve Mobile 2.x (Ionic Cordova build)
-###### [V1 Jan '17 1.0.1]
 =================
+###### [V1 Jan '17 1.0.1]
 
-## mProve Markerstudy Moodle Mobile 2.x
-#### Includes Cordova Crosswalk plugin for Android <4.4.4
+#### mProve Markerstudy Moodle Mobile 2.x
+###### Includes Cordova Crosswalk plugin for Android <4.4.4
 
 
-
+Moodle Documentation
+------
 * [User documentation](http://docs.moodle.org/en/Moodle_Mobile)
 * [Developer documentation](http://docs.moodle.org/dev/Moodle_Mobile)
 * [Development environment setup](http://docs.moodle.org/dev/Setting_up_your_development_environment_for_Moodle_Mobile_2)
@@ -15,5 +16,4 @@ mProve Mobile 2.x (Ionic Cordova build)
 
 License
 -------
-
 [Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0)
