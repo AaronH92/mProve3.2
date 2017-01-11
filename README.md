@@ -5,8 +5,8 @@ mProve Mobile 2.x (Ionic Cordova build)
 #### mProve Markerstudy Moodle Mobile 2.x
 ###### Includes Cordova Crosswalk plugin for Android <4.4.4
 
-As with Moodle Mobile requirements, only NPM 0.12.14 works with this app.  
-Please ensure to install and use NPM 0.12.14 globally before editing.  
+As with Moodle Mobile requirements, only Node 0.12.14 works with this app.  
+Please ensure to install and use Node 0.12.14 globally before editing.  
 
 To build an app, enter _cordova build **platform**_ to terminal and run  
 
